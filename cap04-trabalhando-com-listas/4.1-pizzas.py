@@ -15,4 +15,4 @@ for pizza in pizzas:
 print("\nEu realmente adoro pizza!")
 print("Pizza é uma das minhas comidas favoritas")
 print("Nunca recuso uma boa pizza, seja qual for o sabor!")
-print("Eu amo pizza!🍕")
+print("Eu amo pizza!")
