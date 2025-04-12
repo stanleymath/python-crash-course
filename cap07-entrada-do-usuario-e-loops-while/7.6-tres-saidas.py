@@ -2,7 +2,7 @@
 #  das seguintes tarefas, pelo menos uma vez:
 #  • Use um teste condicional na instrução while para interromper o loop.
 #  • Use uma variável active para controlar o tempo que o loop é executado.
-#  • Use uma instrução break para sair do loop quando o usuário inserir o valor 'quit'
+#  • Use uma instrução break para sair do loop quando o usuário inserir o valor 'quit'.
 
 
 prompt = "Venda de ingressos, o preço depende da idade\n"

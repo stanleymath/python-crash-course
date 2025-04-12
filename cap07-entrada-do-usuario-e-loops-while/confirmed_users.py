@@ -1,4 +1,4 @@
-# começa com usuarios que precisam ser verificados, e uma lista vazia a fim de armazenar os usuários confirmados
+# começa com usuarios que precisam ser verificados, e uma lista vazia a fim de armazenar os usuários confirmados.
 
 unconfirmed_users = ['alice', 'brian', 'candace']
 confirmed_users = []

@@ -1,6 +1,6 @@
-responses = {}
+responses = { }
 
-# define uma flag para sinalizar que a pesquisa está ativa
+# define uma flag para sinalizar que a pesquisa está ativa 
 polling_active = True
 
 while polling_active:

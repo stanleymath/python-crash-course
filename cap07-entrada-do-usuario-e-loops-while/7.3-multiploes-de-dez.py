@@ -1,5 +1,5 @@
 #  7.3 Múltiplos de dez: Solicite ao usuário um número e informe se o número é múltiplo
-#  de 10 ou não
+#  de 10 ou não.
 
 num = int(input("Digite um número: "))
 

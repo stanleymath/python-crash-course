@@ -2,7 +2,7 @@
 #  diversos sanduíches. Depois, crie uma lista vazia chamada finished_sandwiches.
 #  Percorra a lista de pedidos de sanduíches com um loop e exiba uma mensagem para
 #  cada pedido, como: Seu lanche de atum está pronto. Conforme cada sanduíche é
-#  preparado, passe-os para a lista de sanduíches prontos. Após todos os sanduíches
+#  preparado, passe-os para a lista de sanduíches prontos. Após todos os sa.nduíches
 #  terem sido preparados, exiba uma mensagem enumerando cada um deles.
 
 sandwich_orders = ['parrudão', 'xtudo', 'xsheedar', 'xsalada', 'xbacon', 'simples']

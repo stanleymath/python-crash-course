@@ -1,6 +1,6 @@
 # permitindo que o usuário encerre um programa
 
-prompt = ("Para encerrar o programa escreva 'quit' e pressione enter: ")
+prompt = ("Para encerrar o programa escreva 'quit' e pressione enter:  ")
 
 # message = ""
 # while message != 'quit':

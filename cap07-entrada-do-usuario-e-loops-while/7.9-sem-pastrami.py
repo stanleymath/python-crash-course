@@ -3,7 +3,7 @@
 #  perto do início de seu programa, exibindo uma mensagem que informe que a
 #  lanchonete está sem pastrami e, em seguida, use um loop while para remover todas as
 #  ocorrências de 'pastrami' em sandwich_orders. Faça questão de que nenhum sanduíche
-#  de pastrami acabe em finished_sandwiches.
+#  de pastrami acabe em finished_sandwiches..
 
 print("A lanchonete está sem pastrami")
 sandwich_orders = ['parrudão', 'xtudo', 'xsheedar', 'xsalada', 'pastrami', 
@@ -16,7 +16,7 @@ finished_sandwiches = []
 while sandwich_orders:
     while 'pastrami' in sandwich_orders:
         sandwich_orders.remove('pastrami')
-        
+
     for _ in sandwich_orders:
         sandwich_orders.reverse()
         finalizados = sandwich_orders.pop()
