@@ -40,7 +40,7 @@ Cada capítulo é acompanhado por exercícios resolvidos com comentários e boas
 | 05       | Instruções if | ✅ |
 | 06       | Dicionários | ✅ |
 | 07       | Entrada do usuário e loops while | ✅ |
-| 08       | Funções | 🚧 |
+| 08       | Funções | 🚧. |
 | 09       | Classes | ❌ |
 | 10       | Arquivos e exceções | ❌ |
 | 11       | Testando seu código | ❌ |
